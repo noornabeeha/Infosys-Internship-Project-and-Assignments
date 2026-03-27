@@ -1,0 +1,6 @@
+Targets :
+scanme.nmap.org
+testphp.vulnweb.com
+demo.testfire.net
+testasp.vulnweb.com
+zero.webappsecurity.com

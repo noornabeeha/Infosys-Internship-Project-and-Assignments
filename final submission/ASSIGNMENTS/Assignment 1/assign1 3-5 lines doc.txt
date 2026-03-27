@@ -1,0 +1,14 @@
+3.	A short explanation (3–5 lines):
+How does your scoring system help a cybersecurity analyst prioritize threats?
+
+
+My code captures the details, by exploring its type and length first. 
+then explores the structure of each data structure that is present in every level, which makes me think clearly.
+
+my scoring system will stand out and help a cybersecurity analyst better, as i have used dictionaries in order to store the 'techniques' list (which contains technique name) AS KEYS and 'scored_techniques' list (which contains scores provided for each name) AS VALUES
+
+which will furthermore stop duplication of keys and also not mess with list indices changing when the lists are operated on. 
+the code is beginner friendly, and not heavily pythonic which makes one understand my idea better.
+
+thank you ma'am, i really enjoyed working with this dataset.
+looking forward to more exciting assignments.

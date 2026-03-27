@@ -1,0 +1,1 @@
+from .nmap_scanner import scan_and_return_xml
